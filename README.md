@@ -29,6 +29,18 @@ OpenCore based EFI for Dell Latitude 7490.
 - Sound Card: Realtek ALC256
 - LAN: Intel I219-LM
 
+### BIOS Version
+
+1.30.0
+
+
+### Bootloader
+
+OpenCore 0.8.8
+
+### SMBIOS
+
+MacBookPro15,2
 
 
 ## BIOS Settings
@@ -38,15 +50,6 @@ OpenCore based EFI for Dell Latitude 7490.
 - SecureBoot: Disable
 - SATA Mode: AHCI 
 - Intel SGX: Software Controlled
-
-
-## Bootloader
-
-OpenCore 0.8.8
-
-## SMBIOS
-
-MacBookPro15,2
 
 
 ## What's working
