@@ -1,5 +1,6 @@
 # Dell-Latitude-7490-OC-Hackintosh
-OpenCore based EFI for Dell Latitude 7490. 
+
+OpenCore based EFI for Dell Latitude 7490 
 
 
 ![Dell Github](https://user-images.githubusercontent.com/93620854/212483987-b0142f06-32e7-4b35-bacb-cc1947acd4a5.png)
