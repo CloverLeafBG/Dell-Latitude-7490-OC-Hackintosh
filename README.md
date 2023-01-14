@@ -1,5 +1,6 @@
 # Dell-Latitude-7490-OC-Hackintosh
-OpenCore based EFI for Dell Latitude 7490.
+OpenCore based EFI for Dell Latitude 7490. 
+
 
 
 ## Tested macOS Version
@@ -35,6 +36,10 @@ OpenCore based EFI for Dell Latitude 7490.
 ## Bootloader
 
 OpenCore 0.8.8
+
+## SMBIOS
+
+MacBookPro15,2
 
 
 ## What's working
@@ -94,6 +99,3 @@ OpenCore 0.8.8
 - WWAN card
 
 
-
-
-##ENJOY!
