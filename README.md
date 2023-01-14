@@ -2,6 +2,13 @@
 OpenCore based EFI for Dell Latitude 7490. 
 
 
+![Dell Github](https://user-images.githubusercontent.com/93620854/212483987-b0142f06-32e7-4b35-bacb-cc1947acd4a5.png)
+
+
+
+
+
+
 
 ## Tested macOS Version
 
@@ -55,7 +62,7 @@ MacBookPro15,2
  
  - [x] Internal Speakers
  
- - [x] Internal Mic
+ - [x] Internal Microphone
  
  - [x] WiFi (2.4Ghz + 5Ghz)
  
@@ -98,4 +105,8 @@ MacBookPro15,2
 
 - WWAN card
 
+## Additional Notes
 
+Don't forget to generate your own SMBIOS with https://github.com/corpnewt/GenSMBIOS. 
+
+- ENJOY!
