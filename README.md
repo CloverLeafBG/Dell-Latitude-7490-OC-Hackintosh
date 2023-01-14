@@ -68,10 +68,8 @@ OpenCore 0.8.8
 
  - [x] MicroSD card reader 
 
- - [x] Handoff, Airdrop & Sidecar
-
  - [x] Native hotkeys support with Fn keys (Volume Fn+F2/F3 and Screen Brightness Fn + F11/F12)
-
+ 
  - [x] USB-C charging
 
  - [x] USB-C DP-alt Mode
@@ -79,8 +77,10 @@ OpenCore 0.8.8
  - [x] USB-C Data transfer
  
  - [x] Thunderbolt (needs to plug a device before boot)
+ 
+ - [x] Handoff, Airdrop & Sidecar
 
- - [x] FileVault 
+ - [x] FileVault 2
  
 
 
@@ -92,3 +92,8 @@ OpenCore 0.8.8
 ## What's not tested yet
 
 - WWAN card
+
+
+
+
+##ENJOY!
