@@ -14,9 +14,9 @@ OpenCore based EFI for Dell Latitude 7490
 ## Tested macOS Version
 
 - macOS Catalina 10.15.7
-- macOS BigSur 11.7.2
-- macOS Monterey 12.6.2
-- macOS Ventura 13.1
+- macOS BigSur 11.7.3
+- macOS Monterey 12.6.3
+- macOS Ventura 13.2
 
 
 ## System Configuration
